@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600|Work+Sans:400,500,600,700&display=swap');
+
+body {
+  width: 100%;
+  background-image: url(./img/pizzabg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  /* font-family: "Montserrat"; */
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  outline: none !important;
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  font-family: 'Poppins', sans-serif;
+}
+
+html {
+  font-size: 100%;
+}
+
+#logo {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  width: 10%;
+  background-color: #ffc381;
+  height: auto;
+  z-index: -1;
+}
+
+#logotexture {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -2;
+}
+
+/* 
+#background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -4;
+} */
+
+#loginForm {
+  position: relative;
+  box-sizing: border-box;
+  top: 2vh;
+  right: 1vw;
+  float: right;
+  max-width: 550px;
+  width: 30%;
+  height: 52%;
+  margin: 10% auto;
+  background-color: #FFFFFF;
+}
+
+
+form {
+  margin: 50px auto;
+}
+
+#headerTitle {
+  text-align: center;
+  padding: 2rem 2em;
+  margin: 0;
+  font-size: 30px;
+  gap: 10%;
+}
+
+.row {
+  display: flex;
+  column-gap: 20%;
+  flex-direction: column;
+  align-items: center;
+  /* padding-top: 2rem; */
+  max-width: 100%;
+  gap: 50%;
+}
+
+.row input {
+  width: 80%;
+  box-sizing: border-box;
+  border: none;
+  font-size: 16px;
+  padding-left: 1.5rem;
+  padding-bottom: 1rem;
+  box-shadow: inset 0px -3px 0px 0px rgba(187, 187, 187, 0.2);
+  transition: box-shadow 0.3s ease-in;
+}
+
+.row input:focus {
+
+  box-shadow: inset 0px -3px 0px 0px #e2173cce;
+  outline: none;
+}
+
+.row input::-webkit-input-placeholder {
+  opacity: 1;
+  transition: opacity 0.25s ease-out;
+}
+
+.row label {
+  align-self: start;
+  padding-left: 4.5rem;
+  padding-bottom: 0.5rem;
+  color: rgba(187, 187, 187, 0.9);
+}
+
+.row button {
+  border-radius: 25px;
+  width: 80%;
+  height: 40px;
+  font-size: .875rem;
+  color: white;
+  font-weight: 700;
+  background: rgb(34, 193, 195);
+  background: #e2173d;
+  border: 10px;
+  cursor: pointer;
+  transition: opacity 0.25s ease-out;
+}
+
+.row button:hover {
+  opacity: 0.8;
+}
+
+.row a {
+  text-decoration: none;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.footer-distributed {
+  background: url('img/footer/download\ \(2\).jpg');
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.footer-distributed .footer-left p {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 30px;
+  color: #fff;
+}
