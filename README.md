@@ -14,7 +14,7 @@ https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be
 As a senior software engineer, I have gained extensive experience in developing and maintaining various software projects web applications using Spring Boot, Java, React to Machine Learning applications . 
 My portfolio on GitHub showcases my skills and expertise in different areas of software engineering. These are my available Public projects
 
-## Projects in GitHub Repository
+## Projects (public)
 
 1. **[Analysis-recommendation](https://github.com/Anishx/Portfolio/tree/main/Analysis-recommendations)** : These are Machine Learning projects that majorly focus on Analysis of Data and Recommendations
   - GoodLifeFitness - Analysis of Data to handle Crowd Control at a gymnasium, Predicting is a person is likely to attend a group gym session based on historical attendance records, and recommendatons based on the results
