@@ -1,8 +1,7 @@
-<!-- <div>
-  <img width=100%  align="center" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
-  <h6 align=right>Artist : @Kirokaze</h6>  
-</div> -->
-
+<!-- Backup image banners
+https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif
+https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s640x960/9b0a5b52157eddeb084b7a722507e7255de38270.gif
+-->
 <div>
   <img width=100%  align="center" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif">
   <h6 align=right>Artist : @Kirokaze</h6>  
