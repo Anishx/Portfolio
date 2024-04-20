@@ -9,7 +9,7 @@ https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be
 
 
 # **Portfolio** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
-## Summary of my Experience as a Senior Software Engineer
+## Summary of my Experience
 
 As a senior software engineer, I have gained extensive experience in developing and maintaining various software projects web applications using Spring Boot, Java, React to Machine Learning applications . 
 My portfolio on GitHub showcases my skills and expertise in different areas of software engineering. These are my available Public projects
