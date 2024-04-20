@@ -8,7 +8,7 @@ https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be
 </div> 
 
 
-# **Portfolio**
+# **Portfolio** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 ## Summary of my Experience as a Senior Software Engineer
 
 As a senior software engineer, I have gained extensive experience in developing and maintaining various software projects web applications using Spring Boot, Java, React to Machine Learning applications . 
@@ -39,7 +39,7 @@ My portfolio on GitHub showcases my skills and expertise in different areas of s
 - **Software and Frameworks** :	Java, Python, Spring Boot, SQL, Linux, PostgreSQL, AWS EC2, DynamoDB, HTML, CSS, React, Docker, NumPy, REST, RStudio, Git, Jira, JUnit, Selenium, Sonar, R, NumPy, Pandas, TensorFlow, Matplotlib
 - **Concepts** : Statistical analysis, Algorithms, Data structures, Neural networks, Agile methodology, Database design and management, Web Development, Back end development
 
-## My experience as a Senior software engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
+## My experience as a Senior software engineer 
 - **Full Stack development**: Experience in building responsive and user-friendly web applications, APIs using Spring Boot, Java, React, Postgres, Mongo etc
 - **Scripts**: Experience in building scripts to help in migration, API integration, APIs etc.
 - **Back-end Development**: Experience in building, integrating, APIs, endpoints, Security using JWT, implementation of Actuators etc.
