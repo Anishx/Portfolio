@@ -35,11 +35,11 @@ My portfolio on GitHub showcases my skills and expertise in different areas of s
 - Generating spectograms for Audio Images
 - Reddit Scraping - Script for Scraping Redddit comments using Reddit API
 
-## Summary of Skills
+## Summary of Skills [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 - **Software and Frameworks** :	Java, Python, Spring Boot, SQL, Linux, PostgreSQL, AWS EC2, DynamoDB, HTML, CSS, React, Docker, NumPy, REST, RStudio, Git, Jira, JUnit, Selenium, Sonar, R, NumPy, Pandas, TensorFlow, Matplotlib
 - **Concepts** : Statistical analysis, Algorithms, Data structures, Neural networks, Agile methodology, Database design and management, Web Development, Back end development
 
-## My experience as a Senior software engineer :
+## My experience as a Senior software engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 - **Full Stack development**: Experience in building responsive and user-friendly web applications, APIs using Spring Boot, Java, React, Postgres, Mongo etc
 - **Scripts**: Experience in building scripts to help in migration, API integration, APIs etc.
 - **Back-end Development**: Experience in building, integrating, APIs, endpoints, Security using JWT, implementation of Actuators etc.
