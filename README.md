@@ -12,6 +12,10 @@ https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be
 ## Summary of my Experience
 As a senior software engineer, I have gained extensive experience in developing and maintaining various software projects web applications using Spring Boot, Java, React to Machine Learning applications . 
 My portfolio on GitHub showcases my skills and expertise in different areas of software engineering. These are my available Public projects
+- **Full Stack development**: Experience in building responsive and user-friendly web applications, APIs using Spring Boot, Java, React, Postgres, Mongo etc
+- **Scripts**: Experience in building scripts to help in migration, API integration, APIs etc.
+- **Back-end Development**: Experience in building, integrating, APIs, endpoints, Security using JWT, implementation of Actuators etc.
+- **Database development**: Building databses from scratch with triggers, scripts, JOOQ and setting up database pipilines 
 
 ## Project summary (public)
 1. **[Analysis-recommendation](https://github.com/Anishx/Portfolio/tree/main/Analysis-recommendations)** : These are Machine Learning projects that majorly focus on Analysis of Data and Recommendations
@@ -36,9 +40,3 @@ My portfolio on GitHub showcases my skills and expertise in different areas of s
 ## Summary of Skills 
 - **Software and Frameworks** :	Java, Python, Spring Boot, SQL, Linux, PostgreSQL, AWS EC2, DynamoDB, HTML, CSS, React, Docker, NumPy, REST, RStudio, Git, Jira, JUnit, Selenium, Sonar, R, NumPy, Pandas, TensorFlow, Matplotlib
 - **Concepts** : Statistical analysis, Algorithms, Data structures, Neural networks, Agile methodology, Database design and management, Web Development, Back end development
-
-## My Experiences
-- **Full Stack development**: Experience in building responsive and user-friendly web applications, APIs using Spring Boot, Java, React, Postgres, Mongo etc
-- **Scripts**: Experience in building scripts to help in migration, API integration, APIs etc.
-- **Back-end Development**: Experience in building, integrating, APIs, endpoints, Security using JWT, implementation of Actuators etc.
-- **Database development**: Building databses from scratch with triggers, scripts, JOOQ and setting up database pipilines 
