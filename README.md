@@ -10,12 +10,12 @@ https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be
 
 # **Portfolio** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 ## Summary of my Experience
-
+<hr/>
 As a senior software engineer, I have gained extensive experience in developing and maintaining various software projects web applications using Spring Boot, Java, React to Machine Learning applications . 
 My portfolio on GitHub showcases my skills and expertise in different areas of software engineering. These are my available Public projects
 
-## Projects (public)
-
+## Project summary (public)
+<hr/>
 1. **[Analysis-recommendation](https://github.com/Anishx/Portfolio/tree/main/Analysis-recommendations)** : These are Machine Learning projects that majorly focus on Analysis of Data and Recommendations
   - GoodLifeFitness - Analysis of Data to handle Crowd Control at a gymnasium, Predicting is a person is likely to attend a group gym session based on historical attendance records, and recommendatons based on the results
   - Loblaws-analysis - Analysis of churn rate of customers at Loblaws, Recommendations on what offers will work on consumers
@@ -36,10 +36,12 @@ My portfolio on GitHub showcases my skills and expertise in different areas of s
 - Reddit Scraping - Script for Scraping Redddit comments using Reddit API
 
 ## Summary of Skills 
+<hr/>
 - **Software and Frameworks** :	Java, Python, Spring Boot, SQL, Linux, PostgreSQL, AWS EC2, DynamoDB, HTML, CSS, React, Docker, NumPy, REST, RStudio, Git, Jira, JUnit, Selenium, Sonar, R, NumPy, Pandas, TensorFlow, Matplotlib
 - **Concepts** : Statistical analysis, Algorithms, Data structures, Neural networks, Agile methodology, Database design and management, Web Development, Back end development
 
 ## My experience as a Senior software engineer 
+<hr/>
 - **Full Stack development**: Experience in building responsive and user-friendly web applications, APIs using Spring Boot, Java, React, Postgres, Mongo etc
 - **Scripts**: Experience in building scripts to help in migration, API integration, APIs etc.
 - **Back-end Development**: Experience in building, integrating, APIs, endpoints, Security using JWT, implementation of Actuators etc.
